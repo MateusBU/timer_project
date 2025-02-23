@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "node-schedule": "^2.1.1"
+  },
+  "name": "timer_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timer.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusBU/timer_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateusBU/timer_project/issues"
+  },
+  "homepage": "https://github.com/MateusBU/timer_project#readme"
+}
